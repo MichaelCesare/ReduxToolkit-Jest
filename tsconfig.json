@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+	    "jsx": "react",
+      "types": ["vitest", "jest", "node"],
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true
+    }
+  }
+  
